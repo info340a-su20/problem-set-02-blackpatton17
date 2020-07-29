@@ -72,3 +72,19 @@ a:hover {
     background-size: contain;
     background-repeat: no-repeat;
 }
+
+/*#skip a {*/
+/*    position:absolute;*/
+/*    left:-10000px;*/
+/*    top:auto;*/
+/*    width:1px;*/
+/*    height:1px;*/
+/*    overflow:hidden;*/
+/*}*/
+
+/*#skip a:focus, #skip a:active {*/
+/*    position:static;*/
+/*    width:auto;*/
+/*    height:auto;*/
+/*    color: white;*/
+/*}*/
